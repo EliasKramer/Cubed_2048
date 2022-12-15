@@ -1,0 +1,7 @@
+Wert; Name
+0; bounciness (0 - 100)
+false; behaelt x geschwindigkeit nach loslassen
+150; Block groesse (zwischen 100 und 500)
+1.5; Gravitation (zwischen 0.1 und 10)
+10; Masse (zwischen 1 und 100)
+30; Explosionsgroesse (zwischen -100 und 100)
